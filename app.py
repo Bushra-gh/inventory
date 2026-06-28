@@ -12,7 +12,6 @@ def create_app():
 
 app = create_app()
 from application.controllers import *
-# from application.models import *
 
 
 if __name__ == "__main__":
